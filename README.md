@@ -132,7 +132,7 @@ Interactive recommendation app with external metadata integration.
 
 ## 📫 Contact
 
-- 📧 jakub.wisniewski.dev@gmail.com
+- 📧 E-mail: jakub.wisniewski.dev@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/wis-jak
 - 🐙 GitHub: https://github.com/D3prave
 
