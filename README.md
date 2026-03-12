@@ -108,8 +108,8 @@ Interactive recommendation app with external metadata integration.
 - FastAPI • Flask • Node.js • REST APIs
 
 **Data & ML**
-- pandas • NumPy • scikit-learn • Optuna  
-- Recommendation Systems • Graph Analysis • PageRank
+- pandas • NumPy • scikit-learn • TensorFlow • Keras • PyTorch
+- Matplotlib • Seaborn • Plotly
 
 **Databases & Infrastructure**
 - PostgreSQL • Redis • Docker • Vercel  
@@ -124,7 +124,7 @@ Interactive recommendation app with external metadata integration.
 
 - Enterprise IT architecture support
 - Research computing & HPC environments
-- Data analysis & ML prototyping
+- Data analysis & ML
 - Full-stack product development
 - Scalable data pipelines
 
