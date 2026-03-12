@@ -134,7 +134,6 @@ Interactive recommendation app with external metadata integration.
 
 - 📧 E-mail: jakub.wisniewski.dev@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/wis-jak
-- 🐙 GitHub: https://github.com/D3prave
 
 ---
 <!-- ⭐ *Open to internships, junior developer roles, and technical collaborations.* -->
