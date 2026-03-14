@@ -61,12 +61,11 @@ Full-stack bilingual hotel booking platform with admin analytics.
 Tourism personalization system using recommendation algorithms.
 
 **Highlights:**
-- Collaborative filtering (SVD)
-- Cultural/personality-based recommendations
-- Map-based UI
-- External API integrations
-- Built during a hackathon
-
+- Rapid Prototyping: Built and pitched a functional MVP within a strict 24-hour deadline
+- ML Recommendations: Implemented collaborative filtering (SVD) for personality-based cultural matching
+- System Integration: Developed a map-based UI with real-time external API data fetching
+- Full-Stack Execution: Designed the bridge between a Flask ML service and a React/Node.js frontend
+- 
 **Tech:** Python • Flask • React • Node.js • ML tools
 
 👉 https://github.com/D3prave/KULTour
