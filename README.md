@@ -1,6 +1,8 @@
 # Hi, I'm Jakub Wiśniewski 👋
 
-**Software & Data Systems Engineer** [🌐 Portfolio Website](https://yourportfolio.com)
+**Software & Data Systems Engineer** 
+
+[🌐 Portfolio Website](https://yourportfolio.com)
 
 I build practical software at the intersection of web development, data engineering, and machine learning. From full-stack applications to graph analytics pipelines and recommendation systems.
 
