@@ -65,7 +65,7 @@ Tourism personalization system using recommendation algorithms.
 - ML Recommendations: Implemented collaborative filtering (SVD) for personality-based cultural matching
 - System Integration: Developed a map-based UI with real-time external API data fetching
 - Full-Stack Execution: Designed the bridge between a Flask ML service and a React/Node.js frontend
-- 
+  
 **Tech:** Python • Flask • React • Node.js • ML tools
 
 👉 https://github.com/D3prave/KULTour
