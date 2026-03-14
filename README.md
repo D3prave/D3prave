@@ -1,6 +1,6 @@
 # Hi, I'm Jakub Wiśniewski 👋
 
-**Full-Stack Developer | Python | Data & ML Systems**
+**Software & Data Systems Engineer**
 
 I build practical software at the intersection of web development, data engineering, and machine learning. From full-stack applications to graph analytics pipelines and recommendation systems.
 
