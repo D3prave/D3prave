@@ -23,16 +23,6 @@ I enjoy building **data-driven systems, scalable backends, and ML-powered tools 
 
 ---
 
-## 🏢 Experience Areas
-
-- Enterprise IT architecture support
-- Research computing & HPC environments
-- Data analysis & ML
-- Full-stack product development
-- Scalable data pipelines
-
----
-
 ## 📫 Contact
 
 - 📧 E-mail: jakub.wisniewski.dev@gmail.com
