@@ -71,31 +71,6 @@ Tourism personalization system using recommendation algorithms.
 
 ---
 
-### 🤖 Auto-Analyst
-Automated EDA + baseline ML tool for CSV datasets.
-
-**Highlights:**
-- Data profiling & cleaning
-- Model training with Optuna tuning
-- Interactive predictions
-- PDF/HTML reports
-- Dockerized full-stack system
-
-**Tech:** FastAPI • React • scikit-learn • Redis • Docker
-
-👉 https://github.com/D3prave/Auto-Analyst
-
----
-
-### 🎬 Movie Recommendation System
-Interactive recommendation app with external metadata integration.
-
-**Tech:** Python • Streamlit • TMDB API • pandas
-
-👉 https://github.com/D3prave/Movie-Recommendation
-
----
-
 ## 🧰 Tech Stack
 
 **Languages & Core**
