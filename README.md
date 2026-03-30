@@ -2,7 +2,7 @@
 
 **Software & Data Systems Engineer** 
 
-[🌐 Portfolio Website](https://portfolio.jakub-wisniewski.workers.dev/)
+[🌐 Portfolio Website](jakub-wisniewski.com)
 
 I build practical software at the intersection of web development, data engineering, and machine learning. From full-stack applications to graph analytics pipelines and recommendation systems.
 
