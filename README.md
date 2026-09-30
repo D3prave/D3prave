@@ -18,7 +18,7 @@ Currently studying AI at FAU while working across industry and academia, with ex
 - 🤖 Student Assistant @ KU: RAG chatbot crawler and HPC research support
 - 🧠 Former Data Science Intern @ Kimball Electronics
 - 🏆 Hackathon Winner (Best Open Source) with KULTour
-- 🌍 Based in Nuremberg, Germany (from Poland)
+- 🌍 Based in Germany/Poland
 
 I enjoy building **data-driven systems, scalable backends, and ML-powered tools that solve real problems.**
 
