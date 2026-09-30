@@ -1,23 +1,24 @@
 # Hi, I'm Jakub Wiśniewski 👋
 
-**Software & Data Systems Engineer** 
+**Software & Data Systems Engineer | M.Sc. AI Student**
 
 [🌐 Portfolio Website](https://jakub-wisniewski.com)
 
-I build practical software at the intersection of web development, data engineering, and machine learning. From full-stack applications to graph analytics pipelines and recommendation systems.
+I build practical software at the intersection of backend engineering, data engineering, and machine learning. From web crawlers and RAG data pipelines to graph analytics on HPC and recommendation systems.
 
-Currently working across industry and academia, with experience in enterprise IT environments, research computing (HPC), and real-world data projects.
+Currently studying AI at FAU while working across industry and academia, with experience in enterprise IT, research computing (HPC), and real-world data projects.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Bachelor of Data Science — KU Eichstätt-Ingolstadt (Germany)
-- 🏢 Working Student — IT Architecture Support @ Siemens
-- 🔬 Student Research Assistant — HPC & Research Computing
-- 🧠 Former Data Scientist Intern @ Kimball Electronics
-- 🏆 Hackathon Winner — KULTour Project
-- 🌍 Based in Germany / Poland
+- 🎓 M.Sc. Artificial Intelligence @ FAU Erlangen-Nürnberg
+- 🎓 B.Sc. Data Science @ KU Eichstätt-Ingolstadt (thesis: detecting hallucinations in LLMs with semantic entropy)
+- 🏢 Working Student, IT Architecture Support @ Siemens
+- 🤖 Student Assistant @ KU: RAG chatbot crawler and HPC research support
+- 🧠 Former Data Science Intern @ Kimball Electronics
+- 🏆 Hackathon Winner (Best Open Source) with KULTour
+- 🌍 Based in Nuremberg, Germany (from Poland)
 
 I enjoy building **data-driven systems, scalable backends, and ML-powered tools that solve real problems.**
 
@@ -29,4 +30,3 @@ I enjoy building **data-driven systems, scalable backends, and ML-powered tools 
 - 💼 LinkedIn: https://linkedin.com/in/wis-jak
 
 ---
-<!-- ⭐ *Open to internships, junior developer roles, and technical collaborations.* -->
